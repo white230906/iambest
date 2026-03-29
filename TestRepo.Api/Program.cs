@@ -41,10 +41,10 @@ builder.Services.AddTransient<GlobalExceptionHandlerMiddleware>();
 // Không ai mong các em pass và thành công hơn chính anh
     // Vậy nên hãy cố gắng trở thành phiên bản tốt nhất nhé
 
-//Cuộc đời là những chuyến đi
-    //Ta phải đi cho thật đáng
-//Sống một cuộc sống hết mình
-    //Giá trị - Bản lĩnh - Kiên cường và đầy kiên cường
+    // Đời là hành trình – đã đi là phải đáng.
+    //     Sống thì phải hết mình,
+    //     giữ vững giá trị,
+    //     và kiên cường đến cùng.
 
 
 var app = builder.Build();
